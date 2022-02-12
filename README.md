@@ -1,6 +1,6 @@
 # fetch-boundaries
 
-NHS organisation boundary fetching script for the DataLab OpenPrescribing platform contributed by [Mattia Ficarelli](https://github.com/mattia-ficarelli) as part of my role at the [NHSX Analytics Unit](https://github.com/nhsx).
+NHS organisation boundary fetching script for the DataLab OpenPrescribing platform contributed by [Mattia Ficarelli](https://github.com/mattia-ficarelli) as part of his role at the [NHSX Analytics Unit](https://github.com/nhsx).
 
 This script was intially created to address the following [issue](https://github.com/ebmdatalab/openprescribing/issues/3229) on the [OpenPrescribing Platform](https://openprescribing.net/).
 
